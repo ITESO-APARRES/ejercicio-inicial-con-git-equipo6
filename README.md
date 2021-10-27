@@ -8,3 +8,4 @@ Este es un archivo que se encuentra como base para hacer el ejercicio inicial de
 ### INTEGRANTES
    JAVIER IVAN VELAZQUEZ LOZANO
    MARIA FERNANDA SALAS VILLASEÑOR
+   ISAIAS DE ANGELES CASTILLO
