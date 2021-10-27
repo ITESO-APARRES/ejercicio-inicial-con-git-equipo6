@@ -3,8 +3,8 @@
 Este es un archivo que se encuentra como base para hacer el ejercicio inicial de GIT por Equipos.
 
 ## Equipo
-**Número de Equipo**  XXX
+**Equipo**  6
 
 ### INTEGRANTES
-   NOMBRE DEL PRIMER INTEGRANTE
+   JAVIER IVAN VELAZQUEZ LOZANO
    
